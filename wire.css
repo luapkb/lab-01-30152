@@ -36,7 +36,7 @@ body>span:last-of-type>div{
   float: left;
 }
 
-body :last-child{
+body>:last-of-type>div{
   width: 760;
   height: 150;
   }
